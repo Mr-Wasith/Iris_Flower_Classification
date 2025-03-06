@@ -53,9 +53,9 @@ The dataset is loaded directly from the Seaborn GitHub repository using `pandas`
 | Algorithm                  | Accuracy (%) |
 |-------------------|----------------|
 | Support Vector Machine (SVM) | ~100% |
-| Logistic Regression          | ~100% |
+| Logistic Regression          | ~96.67% |
 | Decision Tree Classifier     | ~100% |
-| Random Forest Classifier     | ~100% |
+| Random Forest Classifier     | ~96.67% |
 
 > Accuracy may slightly vary depending on train-test split.
 
